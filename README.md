@@ -66,12 +66,12 @@ MODEL GRAPH:
 
 Program
 ```
-Am=7.3;
-Ac=14.6;
-fm=577;
-fc=5770;
-fs=57700;
-b=6.25;
+Am=5.5;
+Ac=11.0;
+fm=438;
+fc=4380;
+fs=43800;
+b=4.7;
 t=0:1/fs:2/fm;
 wm=2*3.14*fm;
 wc=2*3.14*fc;
@@ -88,25 +88,25 @@ plot(t,efm);
 
 Output Waveform
 
-<img width="1565" height="954" alt="FM Output waveform" src="https://github.com/user-attachments/assets/1269e57f-9b8e-4c00-ae41-2f429657353a" />
+<img width="1527" height="971" alt="image" src="https://github.com/user-attachments/assets/f9dd461b-3571-4de3-af11-67df057e5a14" />
 
 
 Tabulation
 
-![FM Tabulation](https://github.com/user-attachments/assets/4d0697f9-3e9a-4570-bf9a-93c13e2746a8)
+(PICTURE)
 
 
 Calculation
 
-![FM Calculation](https://github.com/user-attachments/assets/b1308491-f2fd-4008-9aaf-397d143e24db)
+(PICTURE)
 
+```
+Frequency Deviation Practical = 2084
 
-Frequency Deviation Practical = 4117.65
+Modulation Index Practical	= 4.79
 
-Modulation Index Practical	= 7.205
-
-Modulation Index Theoretical	= 6.25
-
+Modulation Index Theoretical	= 4.7
+```
 
 RESULT:
 
