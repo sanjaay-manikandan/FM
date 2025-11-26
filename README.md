@@ -93,12 +93,13 @@ Output Waveform
 
 Tabulation
 
-(PICTURE)
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/120e96e1-588b-4284-9e60-358d0ac98aa4" />
 
 
 Calculation
 
-(PICTURE)
+<img width="1280" height="1265" alt="image" src="https://github.com/user-attachments/assets/6ec2cf8d-819d-438d-90ea-1465ce51b7a2" />
+
 
 ```
 Frequency Deviation Practical = 2084
